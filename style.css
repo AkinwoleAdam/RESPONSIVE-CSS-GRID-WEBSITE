@@ -83,7 +83,7 @@ img {
 .showcase {
   grid-area: showcase;
   min-height: 400px;
-  background:url(images/web.jpg);
+  background:url(web.jpg);
   background-size: cover;
   background-position: center;
   padding:3rem;
